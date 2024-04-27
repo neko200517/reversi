@@ -2,9 +2,11 @@
 
 リバーシで学ぶアプリケーション設計入門
 
-- 3 層アーキテクチャ(usecase, domain, repository) とディレクトリの構成例
+- 3 層アーキテクチャ(presentation, application, infrastructure) とディレクトリの構成例
+- エンティティとドメインモデル
 - 層ごとの model バインディング
-- インタフェースと実装
+- Repository インタフェースと実装
+- Repository と Gateway
 - DI
 
 ## ドキュメント
